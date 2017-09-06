@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/u/39632245/Safex-Safety-Tour/SafetyTour.ipa</string>
+					<string>https://cruffo.github.io/safety_tour_ipa/SafetyTour.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/u/39632245/Safex-Safety-Tour/safety-tour.png</string>
+					<string>https://cruffo.github.io/safety_tour_ipa/safety-tour.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/u/39632245/Safex-Safety-Tour/safety-tour-grande.png</string>
+					<string>https://cruffo.github.io/safety_tour_ipa/safety-tour-grande.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
